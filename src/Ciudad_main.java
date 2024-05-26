@@ -4,6 +4,7 @@ public class Ciudad_main {
 
 	public static void main(String[] args) {
 
+		//Esto es un comentario que he añadido yo, Amin para la practica de entornos
 		// Creación de objetos Ciudad
 		Ciudad Toledo = new Ciudad("Toledo", (int) (Math.random() * 10 + 6), (int) (Math.random() * 5 + 1));
 		Toledo.SetResumen(null);
